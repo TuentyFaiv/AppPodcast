@@ -4,6 +4,8 @@ App de Podcast integrada con la API de AudioBoom para aprender Next.JS
 
 ![Captura del proyecto](./readme-static/captura.png)
 
+[Ver la Aplicación](https://app-podcast.herokuapp.com/)
+
 ## ¿Cómo funciona?
 
 Require Node.JS
