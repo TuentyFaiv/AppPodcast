@@ -1,19 +1,19 @@
-# Proyecto del curso de Next.js de Platzi
+# Next.js Platzi Course Project
 
-App de Podcast integrada con la API de AudioBoom para aprender Next.JS
+Podcast application made in Next.js using the [AudioBoom API](https://api.audioboom.com/channels/recommended/), with this application I learned how to use Next.js.
 
-![Captura del proyecto](./readme-static/captura.png)
+![project screenshot](./readme-static/captura.png)
 
-[Ver la Aplicación](https://app-podcast.herokuapp.com/)
+[View the App](https://podcast.tuentyfaiv.vercel.app/)
 
-## ¿Cómo funciona?
+## How does it work?
 
 Require Node.JS
 
-* `npm install` para instalar las dependencias.
-* `npm run dev` para el entorno de desarrollo.
-* `npm run build && npm start` para el entorno de producción.
+* `npm install` to install the dependencies.
+* `npm run dev` for the development environment.
+* `npm run build && npm start` for the production environment.
 
-## Licencia
+## License
 
 MIT
